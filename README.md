@@ -1,0 +1,1 @@
+# 4ga-domain-name-generator
